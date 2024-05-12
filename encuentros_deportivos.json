@@ -1,0 +1,35 @@
+{
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Brasil",
+  "arbitro": "Pierluigi Collina",
+  "fecha": "2022-11-15",
+  "resultado": "2-1"
+},
+{
+  "equipo_local": "Portugal",
+  "equipo_visitante": "Bélgica",
+  "arbitro": "Howard Webb",
+  "fecha": "2022-11-16",
+  "resultado": "1-0"
+},
+{
+  "equipo_local": "Brasil",
+  "equipo_visitante": "Argentina",
+  "arbitro": "Nestor Pitana",
+  "fecha": "2022-11-18",
+  "resultado": "1-2"
+},
+{
+  "equipo_local": "Bélgica",
+  "equipo_visitante": "Polonia",
+  "arbitro": "Felix Brych",
+  "fecha": "2022-11-19",
+  "resultado": "3-1"
+},
+{
+  "equipo_local": "Polonia",
+  "equipo_visitante": "Portugal",
+  "arbitro": "Cüneyt Çakır",
+  "fecha": "2022-11-20",
+  "resultado": "0-2"
+}

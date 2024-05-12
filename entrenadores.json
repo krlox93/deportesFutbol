@@ -1,0 +1,25 @@
+{
+  "nombre": "Lionel",
+  "apellido": "Scaloni",
+  "nacionalidad": "Argentina"
+},
+{
+  "nombre": "Fernando",
+  "apellido": "Santos",
+  "nacionalidad": "Portugal"
+},
+{
+  "nombre": "Tite",
+  "apellido": "Ferreira",
+  "nacionalidad": "Brasil"
+},
+{
+  "nombre": "Roberto",
+  "apellido": "Martínez",
+  "nacionalidad": "España"
+},
+{
+  "nombre": "Paulo",
+  "apellido": "Sousa",
+  "nacionalidad": "Portugal"
+}

@@ -1,0 +1,35 @@
+{
+  "nombre": "Lionel",
+  "apellido": "Messi",
+  "posicion": "Delantero",
+  "edad": 34,
+  "nacionalidad": "Argentina"
+},
+{
+  "nombre": "Cristiano",
+  "apellido": "Ronaldo",
+  "posicion": "Delantero",
+  "edad": 37,
+  "nacionalidad": "Portugal"
+},
+{
+  "nombre": "Neymar",
+  "apellido": "Jr",
+  "posicion": "Delantero",
+  "edad": 30,
+  "nacionalidad": "Brasil"
+},
+{
+  "nombre": "Kevin",
+  "apellido": "De Bruyne",
+  "posicion": "Centrocampista",
+  "edad": 30,
+  "nacionalidad": "Bélgica"
+},
+{
+  "nombre": "Robert",
+  "apellido": "Lewandowski",
+  "posicion": "Delantero",
+  "edad": 33,
+  "nacionalidad": "Polonia"
+}
